@@ -65,19 +65,19 @@ resources:
 
   # Netflix：dler-io
   Netflix.list:
-    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Netflix.list
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Netflix.list
 
   # YouTube：dler-io
   YouTube.list:
-    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube.list
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube.list
 
   # YouTube Music：dler-io，当前同样走 YouTube 策略组
   YouTube-Music.list:
-    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube%20Music.list
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube%20Music.list
 
   # Spotify：dler-io
   Spotify.list:
-    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Spotify.list
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Spotify.list
 
   # PayPal：dler-io
   PayPal.list:
