@@ -20,7 +20,7 @@ resources:
     source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/AdBlock.list
 
   # 广告拦截备用：Sukka，RULE-SET，当前主配置里建议先注释
-  AdBlock-SKK.list:
+  AdBlock-RULESET.list:
     source: https://ruleset.skk.moe/List/non_ip/reject.conf
 
   # 广告拦截备用：Sukka，DOMAIN-SET，启用时要用 DOMAIN-SET
