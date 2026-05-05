@@ -45,7 +45,7 @@ resources:
 
   # Bilibili：dler-io，走 Domestic 策略组
   Domestic-Bilibili.list:
-    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Bilibili.list
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Bilibili.list
 
   # Apple 国内 CDN：Sukka
   Apple-CDN.list:
