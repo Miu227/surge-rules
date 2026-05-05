@@ -1,1 +1,188 @@
+resources:
+  # PCDN / 拦截类：Sukka，REJECT-NO-DROP，不直接丢弃连接
+  REJECT-NO-DROP.list:
+    source: https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf
 
+  # PCDN / 拦截类：Sukka，REJECT-DROP，直接丢弃连接
+  REJECT-DROP.list:
+    source: https://ruleset.skk.moe/List/non_ip/reject-drop.conf
+
+  # 网易云音乐：Sukka，走 CloudMusic 策略组
+  CloudMusic.list:
+    source: https://ruleset.skk.moe/List/non_ip/neteasemusic.conf
+
+  # HTTPDNS：dler-io，用于处理 App 内置 HTTPDNS
+  HTTPDNS.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/HTTPDNS.list
+
+  # 广告拦截：dler-io，常见广告/追踪规则
+  AdBlock.list:
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/AdBlock.list
+
+  # 广告拦截备用：Sukka，RULE-SET，当前主配置里建议先注释
+  AdBlock-SKK.list:
+    source: https://ruleset.skk.moe/List/non_ip/reject.conf
+
+  # 广告拦截备用：Sukka，DOMAIN-SET，启用时要用 DOMAIN-SET
+  AdBlock-DomainSet.list:
+    source: https://ruleset.skk.moe/List/domainset/reject.conf
+
+  # Telegram IP：Sukka，Telegram IP 段
+  Telegram-IP.list:
+    source: https://ruleset.skk.moe/List/ip/telegram.conf
+
+  # Telegram 域名：Sukka，Telegram 域名规则
+  Telegram.list:
+    source: https://ruleset.skk.moe/List/non_ip/telegram.conf
+
+  # TikTok：Semporia，TikTok 解锁/分区规则
+  TikTok-Semporia.list:
+    source: https://raw.githubusercontent.com/Semporia/TikTok-Unlock/refs/heads/master/Surge/TikTok.list
+
+  # TikTok：dler-io，TikTok 通用规则
+  TikTok.list:
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/TikTok.list
+
+  # Bilibili：dler-io，走 Domestic 策略组
+  Domestic-Bilibili.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Bilibili.list
+
+  # Apple 国内 CDN：Sukka
+  Apple-CDN.list:
+    source: https://ruleset.skk.moe/List/non_ip/apple_cdn.conf
+
+  # Apple 中国区服务：Sukka
+  Apple-CN.list:
+    source: https://ruleset.skk.moe/List/non_ip/apple_cn.conf
+
+  # Apple 服务：Sukka，排除国内 CDN 和国区专用域名后
+  Apple-Services.list:
+    source: https://ruleset.skk.moe/List/non_ip/apple_services.conf
+
+  # Apple 通用：dler-io
+  Apple.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Apple.list
+
+  # Netflix：dler-io
+  Netflix.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Netflix.list
+
+  # YouTube：dler-io
+  YouTube.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube.list
+
+  # YouTube Music：dler-io，当前同样走 YouTube 策略组
+  YouTube-Music.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube%20Music.list
+
+  # Spotify：dler-io
+  Spotify.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Spotify.list
+
+  # PayPal：dler-io
+  PayPal.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/PayPal.list
+
+  # AI 服务：Sukka，OpenAI / ChatGPT / Claude / Gemini 等
+  AI.list:
+    source: https://ruleset.skk.moe/List/non_ip/ai.conf
+
+  # 国外静态 CDN：Sukka，DOMAIN-SET，启用时要用 DOMAIN-SET
+  CDN-DomainSet.list:
+    source: https://ruleset.skk.moe/List/domainset/cdn.conf
+
+  # 国外静态 CDN：Sukka，RULE-SET
+  CDN.list:
+    source: https://ruleset.skk.moe/List/non_ip/cdn.conf
+
+  # Microsoft 通用：dler-io
+  Microsoft-Dler.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Microsoft.list
+
+  # Microsoft 国内 CDN：Sukka
+  Microsoft-CDN.list:
+    source: https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf
+
+  # Microsoft 服务：Sukka，除国内 CDN 以外
+  Microsoft.list:
+    source: https://ruleset.skk.moe/List/non_ip/microsoft.conf
+
+  # Google FCM：dler-io，Firebase Cloud Messaging 推送
+  Google-FCM.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Google%20FCM.list
+
+  # JP 限定流媒体：Sukka，走 Smart-JP
+  Stream-JP.list:
+    source: https://ruleset.skk.moe/List/non_ip/stream_jp.conf
+
+  # UK/EU 限定流媒体：Sukka，原规则使用 stream_eu.conf，走 Smart-JP
+  Stream-EU.list:
+    source: https://ruleset.skk.moe/List/non_ip/stream_eu.conf
+
+  # US 限定流媒体：Sukka，走 Smart-JP
+  Stream-US.list:
+    source: https://ruleset.skk.moe/List/non_ip/stream_us.conf
+
+  # TW 限定流媒体：Sukka，走 Smart-JP
+  Stream-TW.list:
+    source: https://ruleset.skk.moe/List/non_ip/stream_tw.conf
+
+  # HK 限定流媒体：Sukka，走 Smart-JP
+  Stream-HK.list:
+    source: https://ruleset.skk.moe/List/non_ip/stream_hk.conf
+
+  # 剩余国外流媒体：Sukka，走 Stream
+  Stream.list:
+    source: https://ruleset.skk.moe/List/non_ip/stream.conf
+
+  # Speedtest：Sukka，DOMAIN-SET，测速域名
+  Speedtest-DomainSet.list:
+    source: https://ruleset.skk.moe/List/domainset/speedtest.conf
+
+  # Steam：dler-io
+  Steam.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Steam.list
+
+  # Download：Sukka，DOMAIN-SET，系统/软件/驱动/游戏下载更新域名
+  Download-DomainSet.list:
+    source: https://ruleset.skk.moe/List/domainset/download.conf
+
+  # Download：Sukka，RULE-SET，系统/软件/驱动/游戏下载更新规则
+  Download.list:
+    source: https://ruleset.skk.moe/List/non_ip/download.conf
+
+  # 常见海外：Sukka global，走 Proxy
+  Proxy-Global.list:
+    source: https://ruleset.skk.moe/List/non_ip/global.conf
+
+  # 常见代理：dler-io，走 Proxy
+  Proxy.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Proxy.list
+
+  # 常见直连：Sukka direct，走 DIRECT
+  Direct.list:
+    source: https://ruleset.skk.moe/List/non_ip/direct.conf
+
+  # 常见国内域名：Sukka domestic，走 Domestic
+  Domestic-SKK.list:
+    source: https://ruleset.skk.moe/List/non_ip/domestic.conf
+
+  # 常见国内域名：dler-io，走 Domestic
+  Domestic.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Domestic.list
+
+  # CN IP：dler-io Domestic IPs，走 Domestic
+  Domestic-IP-Dler.list:
+    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Domestic%20IPs.list
+
+  # 广告 IP：Sukka，放在“开始触发 DNS 解析”之后，走 REJECT-DROP
+  AdBlock-IP.list:
+    source: https://ruleset.skk.moe/List/ip/reject.conf
+
+  # 国内 IP 段：Sukka china_ip，放在后段 IP 区，走 Domestic
+  China-IP.list:
+    source: https://ruleset.skk.moe/List/ip/china_ip.conf
+
+  # 国内 IP 段：Sukka domestic ip，放在后段 IP 区，走 Domestic
+  Domestic-IP-SKK.list:
+    source: https://ruleset.skk.moe/List/ip/domestic.conf
