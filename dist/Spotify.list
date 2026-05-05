@@ -1,0 +1,11 @@
+# Mirrored by GitHub Actions
+# Updated at: 2026-05-05 09:00:31 UTC
+# Source file: Spotify.list
+
+# > Spotify
+USER-AGENT,Spotify*
+DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotilocal.com

@@ -1,0 +1,7 @@
+# Mirrored by GitHub Actions
+# Updated at: 2026-05-05 09:00:31 UTC
+# Source file: YouTube-Music.list
+
+# > Youtube Music
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*

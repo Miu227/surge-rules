@@ -1,0 +1,12 @@
+# Mirrored by GitHub Actions
+# Updated at: 2026-05-05 09:00:31 UTC
+# Source file: Netflix.list
+
+# > Netflix
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net

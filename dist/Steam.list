@@ -1,0 +1,12 @@
+# Mirrored by GitHub Actions
+# Updated at: 2026-05-05 09:00:32 UTC
+# Source file: Steam.list
+
+# > Steam
+DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamusercontent.com
+// DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamstatic.com
