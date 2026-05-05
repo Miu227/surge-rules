@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-05-05 14:27:19 UTC
+# Updated at: 2026-05-05 19:53:46 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-04-30T02:40:41.361Z
-# Size: 4459
+# Last Updated: 2026-05-05T16:21:47.782Z
+# Size: 4462
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -378,6 +378,7 @@ modules.kernelsu.org
 api.indexnow.org
 assets.exercism.org
 david-dm.org
+get-it-on.codeberg.org
 design.codeberg.org
 fonts.codeberg.org
 static.aizanmei.org
@@ -918,6 +919,7 @@ logos.composio.dev
 biomejs.dev
 .angular.dev
 .vercel.dev
+shields.rbtlog.dev
 stats.setapp.macpaw.dev
 lucide.dev
 assets.github.dev
@@ -4437,6 +4439,7 @@ i.snap.as
 solve-widget.forethought.ai
 .shortpixel.ai
 pplx-next-static-public.perplexity.ai
+frontend-cdn.perplexity.ai
 r2cdn.perplexity.ai
 cdn.engagement.ai
 assets.cloudpilot.ai

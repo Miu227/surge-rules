@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-05-05 14:27:21 UTC
+# Updated at: 2026-05-05 19:53:48 UTC
 # Source file: Proxy-Global.list
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-04-16T17:49:30.452Z
-# Size: 1258
+# Last Updated: 2026-05-05T16:21:46.967Z
+# Size: 1259
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,xquartz.org
 DOMAIN-SUFFIX,wmflabs.org
