@@ -13,7 +13,7 @@ resources:
 
   # HTTPDNS：dler-io，用于处理 App 内置 HTTPDNS
   HTTPDNS.list:
-    source: https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/HTTPDNS.list
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/HTTPDNS.list
 
   # 广告拦截：dler-io，常见广告/追踪规则
   AdBlock.list:
