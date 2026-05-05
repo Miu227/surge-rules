@@ -44,7 +44,7 @@ resources:
     source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/TikTok.list
 
   # Bilibili：dler-io，走 Domestic 策略组
-  Domestic-Bilibili.list:
+  Bilibili.list:
     source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Bilibili.list
 
   # Apple 国内 CDN：Sukka
