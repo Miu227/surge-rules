@@ -38,8 +38,9 @@ resources:
   # TikTok：Semporia，TikTok 解锁/分区规则
   TikTok-Semporia.list:
     source: https://raw.githubusercontent.com/Semporia/TikTok-Unlock/refs/heads/master/Surge/TikTok.list
-
-  # TikTok：dler-io，TikTok 通用规则
+  AppleTV.list:
+    source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Apple%20TV.list
+# TikTok：dler-io，TikTok 通用规则
   TikTok.list:
     source: https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/TikTok.list
 
