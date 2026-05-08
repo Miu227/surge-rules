@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-05-08 03:55:58 UTC
+# Updated at: 2026-05-08 08:00:38 UTC
 # Source file: Domestic.list
 
 # China Banks
@@ -68,14 +68,6 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 
 # > Tencent
 IP-CIDR,182.254.116.0/24,no-resolve
-
-# > Emby (UHD)
-DOMAIN,smart.uhdnow.com
-
-# > Emby (MTDB)
-DOMAIN-SUFFIX,jiedaibao.gs
-DOMAIN,cdn.lilyemby.com
-DOMAIN,tx.lilyemby.com
 
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
