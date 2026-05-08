@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-05-08 14:18:45 UTC
+# Updated at: 2026-05-08 19:47:31 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-05-07T18:16:50.065Z
-# Size: 3109
+# Last Updated: 2026-05-08T18:03:18.679Z
+# Size: 3110
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2314,6 +2314,7 @@ speed.lazygone.co.in
 speedtest.rpworld.co.in
 speedtestjld.netplus.co.in
 speedtestchd.netplus.co.in
+speedtest.netplus.co.in
 test.geocity.co.in
 speedtest.echonet.co.in
 speedtestmum.citynet.co.in
