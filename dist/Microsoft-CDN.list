@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-05-13 04:15:33 UTC
+# Updated at: 2026-05-13 09:21:25 UTC
 # Source file: Microsoft-CDN.list
 
 #########################################
 # Sukka's Ruleset - Microsoft CDN
-# Last Updated: 2026-05-10T17:41:17.905Z
-# Size: 57
+# Last Updated: 2026-05-13T07:46:39.706Z
+# Size: 56
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -65,7 +65,6 @@ DOMAIN-SUFFIX,rsm.download.prss.microsoft.com
 DOMAIN-SUFFIX,mbs.download.prss.microsoft.com
 DOMAIN-SUFFIX,lex.download.prss.microsoft.com
 DOMAIN-SUFFIX,vz.download.prss.microsoft.com
-DOMAIN-SUFFIX,wscont2.apps.microsoft.com
 DOMAIN-SUFFIX,sdx.microsoft.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
