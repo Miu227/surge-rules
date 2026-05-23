@@ -187,3 +187,9 @@ resources:
   # 国内 IP 段：Sukka domestic ip，放在后段 IP 区，走 Domestic
   Domestic-IP-SKK.list:
     source: https://ruleset.skk.moe/List/ip/domestic.conf
+
+  Twitter.list
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Surge/Twitter/Twitter.list
+
+  Google.list
+    source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list
