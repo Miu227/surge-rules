@@ -212,7 +212,7 @@ resources:
   DNS_lan_without_real_ip:
       source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_without_real_ip.conf
 
-  DNS_lan_without_real_ip:
+  DNS_lan_with_real_ip:
       source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_with_realip.conf
 
   DNS_lan_hotspot_captive_portal:
