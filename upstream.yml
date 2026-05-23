@@ -193,3 +193,29 @@ resources:
 
   Google.list:
     source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list
+
+  DNS_ali.list:
+    source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf
+
+  DNS_tencent.list:
+      source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.conf
+
+  DNS_bilibili.list:
+      source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf
+
+  DNS_bytedance.list:
+      source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf
+
+  DNS_baidu.list:
+      source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/baidu.conf
+
+  DNS_lan_without_real_ip:
+      source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_without_real_ip.conf
+
+  DNS_lan_without_real_ip:
+      source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_with_realip.conf
+
+  DNS_lan_hotspot_captive_portal:
+      source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/hotspot_captive_portal.conf
+      
+
