@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-05-25 15:30:27 UTC
+# Updated at: 2026-05-25 20:00:53 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-05-23T18:10:33.130Z
-# Size: 3206
+# Last Updated: 2026-05-25T17:20:33.714Z
+# Size: 3207
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1179,6 +1179,7 @@ speedtestnorthpointe.arkdnacloud.com
 speedtesttucson.arkdnacloud.com
 speedtestmarion.arkdnacloud.com
 speedtest.altamahaemc.com
+ookla-estepona.aerioncloud.com
 ookla-toronto.aerioncloud.com
 ookla-1.aerioncloud.com
 speedtest.zoomtelcom.com
