@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-05-26 16:11:56 UTC
+# Updated at: 2026-05-26 20:26:48 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-05-25T17:20:33.714Z
-# Size: 3207
+# Last Updated: 2026-05-26T19:28:04.052Z
+# Size: 3209
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1435,6 +1435,7 @@ speedtest.infowest.com
 txg-speedtest.infinirc.com
 speedtest.infinirc.com
 speed.inet-isp.com
+velocidade.hrcfiber.com
 tr.hostligo.com
 speedtest.hostimux.com
 speedtest.hlinknet.com
@@ -2873,6 +2874,7 @@ ookla-autazes.amazoniasat-isp.com.br
 ookla.amazoniasat-isp.com.br
 speedtest.albatroznetwork.com.br
 speedtest.agilityparacuru.com.br
+teste.wnettecnologia.com.br
 velocidade.webzoomtelecom.com.br
 teste.topnetservices.com.br
 speedtest.saidnettelecom.com.br
