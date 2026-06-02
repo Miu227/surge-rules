@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-01 18:17:50 UTC
+# Updated at: 2026-06-02 05:02:04 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-05-31T18:16:40.290Z
-# Size: 3211
+# Last Updated: 2026-06-01T21:04:28.248Z
+# Size: 3214
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -105,6 +105,7 @@ speedtes.althuraya.live
 teste.oriontelecom.link
 speedtestfl.frantic.link
 speedtest.frantic.link
+sp.corce.link
 ivry.testdebit.info
 77.testdebit.info
 speedtest1.fleetinfo.info
@@ -817,6 +818,7 @@ speedtest.rit.edu
 speedtest.gsu.edu
 speedtest.fit.edu
 speedtest.oc.edu
+speedtest.voiceone.dev
 speedtest.lazco.dev
 albuquerque-speedtest.sacredwindcommunications.com
 speedtest.mifflincountywireless.com
@@ -2479,6 +2481,7 @@ ooklaserver.aryk.fr
 www.librespeed.fi
 speedtest1-qupra-ams-nl.ebgp.fi
 ookla.cozycritters.eu
+argalasti.skoultsos.eu
 speedtest.konverto.eu
 ookla-speedtest.e-ports.eu
 speedtest.battern.eu
