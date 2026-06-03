@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-03 11:24:01 UTC
+# Updated at: 2026-06-03 17:20:58 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-01T18:01:55.721Z
-# Size: 4483
+# Last Updated: 2026-06-03T12:11:19.128Z
+# Size: 4484
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -370,6 +370,7 @@ ep1.pinkbike.org
 es.pinkbike.org
 .parceljs.org
 static.opensuse.org
+assets.openlogi.org
 open-vsx.org
 images.mobilism.org
 demotiles.maplibre.org

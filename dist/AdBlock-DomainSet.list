@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-03 11:23:56 UTC
+# Updated at: 2026-06-03 17:20:50 UTC
 # Source file: AdBlock-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-06-03T10:07:27.948Z
-# Size: 114419
+# Last Updated: 2026-06-03T12:11:17.983Z
+# Size: 114446
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -888,6 +888,7 @@ analytics.newgenre.studio
 .wvlserrzyvspo.online
 .wtvzekabnlunb.online
 .wslubggeuxqtj.online
+.wrysrtitoqbgn.online
 .wryrqrwfpfjct.online
 .wqbghtlchfeir.online
 .wklqwflwrztfa.online
@@ -1122,6 +1123,7 @@ analytics.newgenre.studio
 .kivkmopakxkwo.online
 .kiaufzuundfag.online
 .kgssexsydvfae.online
+.kfesqxzagfxgr.online
 .kdsvscnffrtau.online
 .kbonxnztnxkof.online
 .jzayjohqhvuxa.online
@@ -1139,6 +1141,7 @@ analytics.newgenre.studio
 .jovrjhgvgqvvl.online
 .jlvpcdhaytbbn.online
 .jgrkdzxsjgovw.online
+.jgbnltrrpotbl.online
 .jdfhwxboadwvg.online
 .jboppyhawqzfo.online
 .jbbralnoniaak.online
@@ -1280,6 +1283,7 @@ analytics.newgenre.studio
 .btdykfecwvyso.online
 .bsmyaurgljhae.online
 .bsjigirhvfukb.online
+.bsbhmvllsgmnd.online
 .brtenhqgujafl.online
 .bpmbhbpmmbndn.online
 .bmgzspzuahkgq.online
@@ -3321,6 +3325,7 @@ ssp1.kfadx.tech
 .fyekhoasyszok.site
 .fwcvdfgoeayyo.site
 .fvqgrfdbxadns.site
+.fvcyskzlktxul.site
 .fsdxhpfpkccrk.site
 .fptlryxqqjpsf.site
 .foicuoxmzjthm.site
@@ -3394,9 +3399,11 @@ ssp1.kfadx.tech
 .cjoffippiossa.site
 .cixcljugcznlu.site
 .ciaavycazqtur.site
+.chftwkoiswquf.site
 .cfyrlemzzvaxe.site
 .cebgxrngdchnn.site
 .ccxqwolbriouv.site
+.ccwqjgycmojrg.site
 .cbvopcctelmbv.site
 .bxupxppxqlvss.site
 .bwqfyjaynjpad.site
@@ -3433,6 +3440,7 @@ ssp1.kfadx.tech
 .assbcxnhtvrau.site
 .gtm.area18secreta.site
 .aqlphayjxwevf.site
+.aocdqwzslgqlo.site
 .amzfepdudlyvb.site
 .alxfwwwnibtah.site
 .alqotwixjczdc.site
@@ -3648,6 +3656,7 @@ bad.third-party.site
 .prabblemegasse.shop
 .phonghiveinlet.shop
 .peacoatpopular.shop
+.overjoytapises.shop
 .s.orionstoreshop.shop
 .oldsterfogdogs.shop
 .montaukfullage.shop
@@ -3851,6 +3860,7 @@ bad.third-party.site
 .sterigobonee.shop
 .spoofeddowed.shop
 .seedersbaiza.shop
+.scenarycombo.shop
 .tt.safeyourlove.shop
 .sacketbusmen.shop
 .reedyduckies.shop
@@ -4534,6 +4544,7 @@ bad.third-party.site
 .jackassshaverypopedom.qpon
 .isonomyobscuracrocein.qpon
 .cluttervisiterstudium.qpon
+.caraunasivaitepricked.qpon
 .buckramtosheryserenes.qpon
 .yeravercabbalaxystus.qpon
 .warineambatchgreeney.qpon
@@ -5075,6 +5086,7 @@ bad.third-party.site
 .kvassupgazed.qpon
 .karezmoonish.qpon
 .juratawoohoo.qpon
+.joolapuchera.qpon
 .jomonovicide.qpon
 .jejunanieves.qpon
 .jawanbedrown.qpon
@@ -5106,6 +5118,7 @@ bad.third-party.site
 .ditherscutes.qpon
 .didactlobfig.qpon
 .dicingfulcra.qpon
+.devoterhillo.qpon
 .densetechier.qpon
 .defiantstull.qpon
 .dahmsoutblot.qpon
@@ -6276,6 +6289,7 @@ nmbr.info
 .glorlataxaahed.cyou
 .gharrislapillo.cyou
 .getlingprosser.cyou
+.georgiewattmen.cyou
 .genekifanobeli.cyou
 .fuglingreactor.cyou
 .frayingfilmize.cyou
@@ -7268,6 +7282,7 @@ grs.dbankcloud.asia
 .2fyzxp40.xyz
 .2bqlkznz.xyz
 .22qt1c4n.xyz
+.1bx3a4s2.xyz
 .1bc1au5l.xyz
 .19706903.xyz
 .17199874.xyz
@@ -9497,6 +9512,7 @@ umdc.aliapp.org
 .rdr.aromatica.one
 .events.vercount.one
 .cn.vercount.one
+.dtent.povvverz.one
 .ctent.povvverz.one
 .et.medialis.one
 .routeme.one
@@ -12057,6 +12073,7 @@ pl.cp31.ott.cibntv.net
 topapi.cp12.ott.cibntv.net
 sltint.adv.ott.cibntv.net
 .stats.chadly.net
+.cdclub.net
 .frqjv.cannas.net
 .stape.cadmax.net
 .bvmcdn.net
@@ -19761,6 +19778,7 @@ analytics.immersivetranslate.com
 .marketing.technologyadvice.com
 .techniciancocoon.com
 .content.tatatelebusiness.com
+.tasty-permission.com
 .capi.tasneembeautybox.com
 .aioan.tailoredcanvases.com
 .rtrk.tagesnachrichten.com
@@ -29214,6 +29232,7 @@ qm.redbullracing.com
 .elqtracking.hitachienergy.com
 .trackingaa.hitachienergy.com
 .go.hitachienergy.com
+.hipjjdrfpdmqt.com
 .data.marketing.hillshirefarm.com
 .hilariouszinc.com
 .naya.hightouchshop.com
@@ -32401,6 +32420,7 @@ adcdn.tencentmusic.com
 .marketing.polimortgage.com
 .go.polarleasing.com
 .meta-events.podiumrunner.com
+.poddigegruis.com
 .pocketfaucet.com
 .poachminikin.com
 .pneumahameil.com
@@ -47899,6 +47919,7 @@ cl2.webterren.com
 .sgtm.vbs-hobby.com
 .vbclshtzg.com
 .qzthc.vayasleep.com
+.vawturpis.com
 .vauu8z77p.com
 .capi.vatconsbd.com
 .vast-size.com
@@ -54258,6 +54279,7 @@ ads.reader.yueyouxs.com
 .yolasite.com
 .info.eu.tmi.yokogawa.com
 .click-v4.yoclpknu.com
+.ymtcthpn.com
 .yjaislop.com
 .yieldkit.com
 .yieldads.com
@@ -56744,6 +56766,7 @@ vali.cp31.ott.cibntv.net.302.myalicdn.com
 .etc.lxhausys.com
 .1.lvshi567.com
 .tr.communication.lvmhdare.com
+.lvaokswa.com
 .cyeabs.luxyhair.com
 .luxmjuxm.com
 .luwrzuro.com
@@ -67235,6 +67258,7 @@ sapi.edgedb.com
 .s.dsi27u.com
 .dshsxy.com
 .s.dshh37.com
+.dshfbd.com
 .dsgwoa.com
 .dsgvgw.com
 .s.dsgqie.com
@@ -73841,6 +73865,7 @@ acs.56.com
 .6r3ikxy1m5xptr3yv3yxk.cfd
 .52tw7wv9p5hfvwzltrwlr.cfd
 .18zkj1qlruj79oyq63f6w.cfd
+.zeroessummaryganched.cfd
 .z5cgvvwvwryxyq5j29i4.cfd
 .wristedbirdleterring.cfd
 .wqyw8umjobny1b1pelqu.cfd
@@ -73861,6 +73886,7 @@ acs.56.com
 .polioslullingglottic.cfd
 .partieslithestbucked.cfd
 .p7tycr5jcw42r2pflvo7.cfd
+.owrj838bplzo8j536urt.cfd
 .ovulumsoutersberiber.cfd
 .omniumoutroopbathers.cfd
 .ofzl3q285oifbt1ct757.cfd
@@ -74762,6 +74788,7 @@ acs.56.com
 .douthurts.cfd
 .dostyajna.cfd
 .benoagger.cfd
+.bankmanus.cfd
 .alaresldg.cfd
 .unacteyl.cfd
 .udclumpy.cfd
