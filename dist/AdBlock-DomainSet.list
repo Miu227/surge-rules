@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-03 05:20:02 UTC
+# Updated at: 2026-06-03 11:23:56 UTC
 # Source file: AdBlock-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-06-03T04:52:05.414Z
-# Size: 114353
+# Last Updated: 2026-06-03T10:07:27.948Z
+# Size: 114419
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -138,6 +138,7 @@
 .zrnuxzjavlwak.website
 .zpvihbppfwgzo.website
 .zocwfosbxwqru.website
+.zmgfxtuxzpjdf.website
 .zlqzkbycvhnye.website
 .zlqbumqlhbynk.website
 .zlqanhqrtjair.website
@@ -243,6 +244,7 @@
 .tcezpiinbuinr.website
 .szleoydohsree.website
 .sxlmnmwcnbpol.website
+.swdbcdsqexvxs.website
 .swbrhcewtgxiv.website
 .svniznacgtrfk.website
 .suqvqadmmslsd.website
@@ -257,6 +259,7 @@
 .slpineexyksjm.website
 .slgbpidnbnkxg.website
 .sfkuetkvpofbd.website
+.sfdekzpycnfhl.website
 .seuszqckmixng.website
 .sdpymnujiurkj.website
 .saykafiyqytue.website
@@ -305,6 +308,7 @@
 .pnntmazfterio.website
 .pmlfclxqicihz.website
 .pliefarbdwnyd.website
+.plbpzwoxisdwb.website
 .piovokqpethen.website
 .pimqyurkdhekj.website
 .phxbjgnhrqbuc.website
@@ -541,6 +545,7 @@
 .bklihaatruags.website
 .bfssppyxypbix.website
 .bfkzxvtskojbz.website
+.bbwaedylblthb.website
 .bbnrtkyqytdjt.website
 .bbigjasjgqkkq.website
 .azhobfzcwtxvj.website
@@ -1143,6 +1148,7 @@ analytics.newgenre.studio
 .ixyfhlybedovh.online
 .ixkirvwcrjnxx.online
 .itaaiomwnuqfq.online
+.iqzjdpmkzglge.online
 .invduqcmezfzv.online
 .iljszcvonewca.online
 .iiwlwqsvmrvdk.online
@@ -1916,6 +1922,7 @@ crsoptimizer.conversionrate.store
 .zmwyfapwsdwmz.space
 .zlckgwtrtfafx.space
 .zlbzfuzrszxfb.space
+.zkiqzlcdvilvu.space
 .zjcgdbbuvpeup.space
 .zhxceqqghfabh.space
 .zeblaitjiznqv.space
@@ -1936,6 +1943,7 @@ crsoptimizer.conversionrate.store
 .yefqqpjiwwzal.space
 .ycwkyxuspaxhm.space
 .ybeijwsoobkzf.space
+.yatkwgvffahfy.space
 .yaoeoownhrjxe.space
 .xzzonjfwjpfqv.space
 .xxajluvlzcaup.space
@@ -2033,6 +2041,7 @@ crsoptimizer.conversionrate.store
 .tjktbalmpgghx.space
 .tgnlwbgjagkah.space
 .yaanom.tentenhunukwa.space
+.tcwnjcdfxtuxo.space
 .sxqxvcymtiwxo.space
 .swwsoxhdxvtbg.space
 .swbbtzshzxsve.space
@@ -2178,6 +2187,7 @@ crsoptimizer.conversionrate.store
 .kkomjosrzgcxb.space
 .kgelszslmjztp.space
 .kdfjlppcvgbdj.space
+.kcapphwmsjxth.space
 .kafupzgaopzjc.space
 .jywqcjoelqiza.space
 .jxelkzydvftdn.space
@@ -2318,6 +2328,7 @@ crsoptimizer.conversionrate.store
 .cjrlpledgxvll.space
 .cjqdurmadlatm.space
 .cirogpnymaqkf.space
+.cipezicsdpmzi.space
 .cgbgdgcdmahpd.space
 .capkkfuiticpo.space
 .cabctdhsvdcye.space
@@ -3054,6 +3065,7 @@ ssp1.kfadx.tech
 .tuindccdlsdnq.site
 .trraznocooujw.site
 .tqdttlfjmtwti.site
+.tnnugxbvcszsn.site
 .tnjdermbazjhx.site
 .tmcdxvstthjen.site
 .tlmbepyxjkdxb.site
@@ -3162,6 +3174,7 @@ ssp1.kfadx.tech
 .nnrxxiyinizda.site
 .nmfiqbupzxcku.site
 .nlhsxrjhzdrbb.site
+.nijfopycwmazb.site
 .ngqtjoktijeem.site
 .nglctvwiwbnqa.site
 .ngdwfgdpfgawh.site
@@ -3248,7 +3261,9 @@ ssp1.kfadx.tech
 .irolzwiwjrlkm.site
 .iqietsyotgcxz.site
 .iohqwaarinkpi.site
+.inxycygwoggpv.site
 .intrustedzone.site
+.imtarylqpkdoy.site
 .iljcnkfiowzqw.site
 .iliykdbfcofbi.site
 .ikikigxywqcrf.site
@@ -3334,6 +3349,7 @@ ssp1.kfadx.tech
 .eliknvgewtpus.site
 .ejsvyoejfmbfn.site
 .ejmidntfgqwfh.site
+.eiptxjysyzank.site
 .eejfjzadnqxcg.site
 .eedaebenuzque.site
 .edubhsffaoqcw.site
@@ -3356,6 +3372,7 @@ ssp1.kfadx.tech
 .dhzwidbzdgmjg.site
 .dekprhusqvbkq.site
 .dcixhdmdpxhuh.site
+.dahhegnmbrdgv.site
 .czhplqbsgswcz.site
 .czaawozddjbtu.site
 .cyxbmqbsncgll.site
@@ -3642,6 +3659,7 @@ bad.third-party.site
 .tracking.laboxmarocaine.shop
 .kaolineunheler.shop
 .joseitesuppled.shop
+.isodontespinal.shop
 .jgdko.infinitegarden.shop
 .hoarsenhardish.shop
 .load.dwga.highprofile-il.shop
@@ -3828,6 +3846,7 @@ bad.third-party.site
 .server.thepawsomeco.shop
 .tatlertarpon.shop
 .swimmertamul.shop
+.swarryhuppah.shop
 .stingosbecut.shop
 .sterigobonee.shop
 .spoofeddowed.shop
@@ -3861,6 +3880,7 @@ bad.third-party.site
 .ser.ihsanperfume.shop
 .load.sgtm.hm-furnitura.shop
 .heatenfaster.shop
+.grindedgreet.shop
 .gowferbumped.shop
 .glutslacunar.shop
 .ghibligangsa.shop
@@ -4128,6 +4148,7 @@ bad.third-party.site
 .pieholla.shop
 .servers.pechabee.shop
 .server.nisamart.shop
+.nigyodel.shop
 .mvtureen.shop
 .gtm.mrvendor.shop
 .sgtm.monobunt.shop
@@ -4453,6 +4474,7 @@ bad.third-party.site
 .hqbqp46cl99yeh8.rest
 .g5tmvwvfpj41f31.rest
 .ezzovjr13vh3kmh.rest
+.ebttk3nxwb3jugf.rest
 .eb2lekknrtcl1lm.rest
 .cm68nnlhbemii1n.rest
 .b2bux387uu1pm2x.rest
@@ -4464,6 +4486,7 @@ bad.third-party.site
 .1pxjj2lcmf52wom.rest
 .1eykxe5kktckt52.rest
 .z4ucr946h4gxx5.rest
+.wjlc99gq7l4ozr.rest
 .upg99r5plloz3j.rest
 .ueqwqlcwuq1xny.rest
 .u5jlpb7lqwu3ih.rest
@@ -4506,6 +4529,7 @@ bad.third-party.site
 .pyrrhicangekokamplect.qpon
 .predialburgalldypnone.qpon
 .poussiepienaarskither.qpon
+.overletscupfulouttask.qpon
 .nilgaushardockrameous.qpon
 .jackassshaverypopedom.qpon
 .isonomyobscuracrocein.qpon
@@ -4562,6 +4586,7 @@ bad.third-party.site
 .westerawnesschirmed.qpon
 .washragpangslepiota.qpon
 .vesaniamissusriboso.qpon
+.tripoddrewitealoins.qpon
 .tepalscancanchugger.qpon
 .synodusdifdacoenoby.qpon
 .strokesneglectnerka.qpon
@@ -4958,6 +4983,7 @@ bad.third-party.site
 .diarialawhirl.qpon
 .demihagpareja.qpon
 .crankycarrick.qpon
+.couthlydobber.qpon
 .conjoinfunder.qpon
 .cograilpiaffe.qpon
 .cochonkoomkie.qpon
@@ -5007,6 +5033,7 @@ bad.third-party.site
 .stopingporks.qpon
 .stalkoscruto.qpon
 .sorermegabar.qpon
+.solodiembays.qpon
 .smirchdevoir.qpon
 .slivegphbana.qpon
 .sialshumours.qpon
@@ -5022,6 +5049,7 @@ bad.third-party.site
 .retainsirius.qpon
 .repartclasps.qpon
 .recipeshaped.qpon
+.prylersteeds.qpon
 .propermolala.qpon
 .profertcurdy.qpon
 .prakritfemes.qpon
@@ -5893,6 +5921,7 @@ nmbr.info
 .uneagerfurfoozcomales.cyou
 .unbuildtweezesswobbed.cyou
 .typhoidchokiersamiels.cyou
+.truantsbihalvemullahs.cyou
 .sumitrotheoricviolate.cyou
 .slowesttiddleyslodger.cyou
 .mildfulsawwortsanhita.cyou
@@ -6335,6 +6364,7 @@ nmbr.info
 .sambuksabaism.cyou
 .sambarverruca.cyou
 .roserypopolis.cyou
+.risquesprawls.cyou
 .rhagiteteeing.cyou
 .rewakemutants.cyou
 .retakenkrantz.cyou
@@ -7077,6 +7107,7 @@ grs.dbankcloud.asia
 .sg.ikan138dc.xyz
 .stats.ignatuque.xyz
 .analytics.gnetworks.xyz
+.forgetnet.xyz
 .load.fbsst.dailymart.xyz
 .crown.crownshop.xyz
 .sgtm.voice.controlla.xyz
@@ -10079,6 +10110,7 @@ proxyhog.prisma-data.net
 .ainouzaudre.net
 .aimukreegee.net
 .ad-delivery.net
+.95instances.net
 .930networks.net
 .7777systems.net
 .682immunity.net
@@ -13383,6 +13415,7 @@ widgets-test.boomio.workers.dev
 .stats.patout.dev
 .stats.parrot.dev
 analytics.lucide.dev
+.lib-wp.dev
 .newt.javier.dev
 .plas.imfeld.dev
 .link.hiccup.dev
@@ -23814,6 +23847,7 @@ otn.samsungcloudcdn.com
 .xueygybqwiaode.com
 .xtrntitvvtjlbq.com
 .duelf.xstanceinsoles.com
+.xsmnkwolsmvjim.com
 .xknnagwnilyhhz.com
 .xjwgtxntpnpugk.com
 .xhduilwxcewlzn.com
@@ -25176,6 +25210,7 @@ otn.samsungcloudcdn.com
 .tr.newsletter.meilleurmobile.com
 .app.meihengyisheng.com
 .ssgtm.meetmattfraser.com
+.meetflirtmatch.com
 .medullagrooved.com
 .secure.medtroniclearn.com
 .images.medtroniclearn.com
@@ -27120,6 +27155,7 @@ otn.samsungcloudcdn.com
 httpdns.volcengineapi.com
 .api.vogastrategie.com
 .vofztrnxcutcr.com
+.vnsvifdfhuehe.com
 .vmuhgeskoqkcr.com
 .server.vlslawacademy.com
 .vlckdbjxmdvxs.com
@@ -28903,6 +28939,7 @@ qm.redbullracing.com
 .knifetreasury.com
 .kngrxhxtefpmo.com
 .klutzestiming.com
+.kjtmgfsxiaftq.com
 .track.kitchenxperts.com
 .gvdhl.kingdomkratom.com
 .kindlereunion.com
@@ -30284,6 +30321,7 @@ qm.redbullracing.com
 .cagjcsdkvyzmj.com
 .sst.cafebeaubourg.com
 .bxwxxdmtpzchg.com
+.bvysifyqchqio.com
 .ss.buyturbodrain.com
 .ss.buylumenlight.com
 .ss.buyinflatopro.com
@@ -31739,6 +31777,7 @@ adcdn.tencentmusic.com
 .marketing.specgradeled.com
 .gas-sensing.spec-sensors.com
 .sparkstudios.com
+.sparkpcgames.com
 .sgtm.sparklymaids.com
 .su.space-safari.com
 .sst.sovrledental.com
@@ -33931,6 +33970,7 @@ httpdns-push.heytapmobile.com
 .ggdec.fromourplace.com
 .frokincrests.com
 .frndgybljckn.com
+.frillhetaery.com
 .friendlyfold.com
 .friendlyduck.com
 .fridaylogger.com
@@ -35402,8 +35442,10 @@ a.dounanhuahui.com
 .9xeqynu3gt7c.com
 .9tumza4dp4o9.com
 .730instances.com
+.720instances.com
 .6ujk8x9soxhm.com
 .6bgaput9ullc.com
+.680tosystems.com
 .63voy9ciyi14.com
 .63r2vxacp0pr.com
 .5vpbnbkiey24.com
@@ -42804,6 +42846,7 @@ httpdns.push.oppomobile.com
 .oovruczakz.com
 .oot59rxrwm.com
 .ooguuruolg.com
+.oobjgphwqy.com
 .app.onyxcharge.com
 .onxuegm38t.com
 .onwardflee.com
@@ -47314,6 +47357,7 @@ simple.cloudsmith.com
 .zlgenuyiu.com
 .zjklt4ei4.com
 .zj7coeb5i.com
+.ziwpynasn.com
 .ziwelatum.com
 .zitdither.com
 .ziraflexo.com
@@ -50389,6 +50433,7 @@ win10.ipv6.microsoft.com
 .fogrm.macduggal.com
 .sgtm.macchedil.com
 .ggl.ma-parure.com
+.m9ylqs5rn.com
 .m8zgls6zt.com
 .m8ryjf38a.com
 .m81mfege2.com
@@ -51223,6 +51268,7 @@ sapi.justwatch.com
 .ergrbp.hobidunya.com
 .kvwrhr.hobbyking.com
 .link.hobbinity.com
+.hoamt60fa.com
 .1.hnyouneng.com
 .hnveehmeh.com
 .hmxg5mhyx.com
@@ -51669,6 +51715,7 @@ sapi.justwatch.com
 .genieessp.com
 .genieedmp.com
 .server.gearfocus.com
+.ge99lo1z2.com
 .gdpj8lm2t.com
 .gdmxjbjjo.com
 .gdbegok47.com
@@ -54054,6 +54101,7 @@ cdn.24metrics.com
 .13afemc28.com
 .12ypksztq.com
 .12ybs41sa.com
+.12xlwin4m.com
 .vgctz.12thtribe.com
 .jtugc.12thtribe.com
 .repdata.12newsnow.com
@@ -54656,6 +54704,7 @@ ftpcontent.worldnow.com
 .umebella.com
 .tracking.umbrella.com
 .ulbjabxs.com
+.ugtflnqn.com
 .ugjbabrx.com
 .ufouxbwn.com
 .gtm.uesports.com
@@ -56758,6 +56807,7 @@ vali.cp31.ott.cibntv.net.302.myalicdn.com
 .llnbumix.com
 .eojhs.llmedico.com
 .lllencim.com
+.llhxhipo.com
 .eth.llamarpc.com
 .data.crm.lizearle.com
 .app.link.livibank.com
@@ -58092,6 +58142,7 @@ o2oad.elemecdn.com
 .apps.e-butler.com
 .metrics.support.e-abbott.com
 .metrics.e-abbott.com
+.dyttgsmq.com
 .deeplinks.everyday.dynamify.com
 .deeplinks.twelve.dynamify.com
 .deeplinks.efeed.dynamify.com
@@ -60128,6 +60179,7 @@ wkrd.tingyun.com
 .aehvf.tentree.com
 .server.tensooq.com
 .marketing.tenoapp.com
+.tenlets.com
 .sgtm.tenhaag.com
 .galileotelemetry.tencent.com
 .tpstelemetry.tencent.com
@@ -60294,6 +60346,7 @@ httpdns.danuoyi.tbcache.com
 .a8.strapya.com
 .str1kee.com
 .tracker.str-nrg.com
+.stortla.com
 .storkto.com
 .ssgamf.stories.com
 .www2s.storage.com
@@ -64020,6 +64073,7 @@ api.adxpand.com
 .8digits.com
 .8861202.com
 .metrics.7cantos.com
+.79nexar.com
 .gtm.77camps.com
 .agmgvp.723hoog.com
 .trail.71baomu.com
@@ -67194,6 +67248,7 @@ sapi.edgedb.com
 .dscmih.com
 .dscjnr.com
 .s.dsc5yj.com
+.dsbtfg.com
 .s.dsbox2.com
 .s.dsblk8.com
 .s.dsbdlb.com
@@ -68631,6 +68686,7 @@ ad.api.3g.tudou.com
 .trkbc.com
 .trk4u.com
 .admissions.trios.com
+.trc97.com
 .trc85.com
 .eb.trbas.com
 .tqlkg.com
@@ -73692,6 +73748,7 @@ acs.56.com
 .ibxhi6tj3ozpfochtpbqxxmpqly779i.cfd
 .i4hnft4cqz5yn2rpx8cxcqgf2e15lc3.cfd
 .hzfmvejpkbi77iww5rwv3lzotw1okog.cfd
+.5tw3p5lnmlxkxcwmw9zwfcl12c6ll2q.cfd
 .tb6ugk975vxc74xg3pxq6ett3qklnh.cfd
 .wk4gxpz1xbtt57bhwb3yete2tf3bz.cfd
 .fzju14tzv7z12gq2cf7gve3ij1m58.cfd
@@ -73870,6 +73927,7 @@ acs.56.com
 .redbillcrumbdarting.cfd
 .ramtagustinghaviour.cfd
 .rameshdipseypitying.cfd
+.q4c2nhc4zfhrvy1klkj.cfd
 .putdowncytodepullus.cfd
 .proudpanayanhulster.cfd
 .prepaidprimertoivel.cfd
@@ -73932,6 +73990,7 @@ acs.56.com
 .stiltydreckskangli.cfd
 .sludgerambonmaleic.cfd
 .sermonperoneimamie.cfd
+.senopialatitefyces.cfd
 .sennitepetshamital.cfd
 .sawingsdemioxcrimp.cfd
 .salepbeblotanoraks.cfd
@@ -74149,6 +74208,7 @@ acs.56.com
 .chsdisbindcream.cfd
 .chinapallasrobs.cfd
 .blowsgollsaline.cfd
+.besandrumbpieta.cfd
 .9mkcxvlgcnmfxxg.cfd
 .9lkywn3kb8bp3py.cfd
 .7nzr7belmnvn2zj.cfd
@@ -74183,6 +74243,7 @@ acs.56.com
 .stigmaicubital.cfd
 .sobbingalchemy.cfd
 .snufferepyllia.cfd
+.seedmanchaccon.cfd
 .secludeestuate.cfd
 .scaselyhoptree.cfd
 .saccagerevests.cfd
@@ -74285,6 +74346,7 @@ acs.56.com
 .anonangbiotics.cfd
 .anientechetahs.cfd
 .acomoushidings.cfd
+.aclinalsurphul.cfd
 .aceratecorkers.cfd
 .98h1vujk5m8oog.cfd
 .8v21wql4bf1u51.cfd
@@ -74440,6 +74502,7 @@ acs.56.com
 .accoastquinic.cfd
 .abroodhaemoid.cfd
 .zarnechobbil.cfd
+.yodleblickie.cfd
 .winlysuecism.cfd
 .viralflashed.cfd
 .uropodobolet.cfd
@@ -74623,6 +74686,7 @@ acs.56.com
 .hikermulley.cfd
 .harksashily.cfd
 .gurdylangel.cfd
+.girdsrunman.cfd
 .fossealible.cfd
 .fleysingers.cfd
 .flaggyturse.cfd
@@ -89116,6 +89180,7 @@ umami.rss3.io
 .assets.channelplay.in
 .axmpahohqac.in
 .axhlacarcva.in
+.awjojjrimaf.in
 .d.aviyoggroup.in
 .atracrmucoj.in
 .ascncuacdwh.in
@@ -101192,6 +101257,7 @@ p.cloudcraft.co
 .stats.incoming.co
 .usage.ideasnap.co
 .load.gthrtm.gatherit.co
+.gamerhit.co
 .fudo.fudoshin.co
 .stats.foxyapps.co
 .gtm.foryouth.co
