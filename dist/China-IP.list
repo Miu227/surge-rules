@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-02 21:25:15 UTC
+# Updated at: 2026-06-03 05:20:08 UTC
 # Source file: China-IP.list
 
 #########################################
 # Sukka's Ruleset - Mainland China IPv4 CIDR
-# Last Updated: 2026-06-02T18:35:59.860Z
-# Size: 3912
+# Last Updated: 2026-06-03T04:52:07.195Z
+# Size: 3914
 # License: CC BY-SA 2.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -630,7 +630,8 @@ IP-CIDR,61.10.128.0/20
 IP-CIDR,61.10.160.0/20
 IP-CIDR,61.10.192.0/18
 IP-CIDR,61.15.0.0/18
-IP-CIDR,61.18.0.0/17
+IP-CIDR,61.18.0.0/18
+IP-CIDR,61.18.64.0/19
 IP-CIDR,61.28.20.0/24
 IP-CIDR,61.28.22.0/24
 IP-CIDR,61.28.49.0/24
@@ -1369,6 +1370,7 @@ IP-CIDR,103.251.204.0/24
 IP-CIDR,103.251.207.0/24
 IP-CIDR,103.251.240.0/22
 IP-CIDR,103.252.36.0/24
+IP-CIDR,103.252.172.0/22
 IP-CIDR,103.252.248.0/22
 IP-CIDR,103.253.60.0/22
 IP-CIDR,103.253.204.0/22

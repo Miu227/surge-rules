@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-02 21:25:15 UTC
+# Updated at: 2026-06-03 05:20:07 UTC
 # Source file: Proxy-Global.list
 
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-05-05T16:21:46.967Z
-# Size: 1259
+# Last Updated: 2026-06-03T04:52:05.682Z
+# Size: 1260
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -690,6 +690,7 @@ DOMAIN-SUFFIX,redbull.com
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,proporn.com
+DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,pornoxo.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,porndig.com
