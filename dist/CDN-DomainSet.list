@@ -1,10 +1,10 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-08 05:03:51 UTC
+# Updated at: 2026-06-08 11:21:46 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-07T15:39:53.104Z
+# Last Updated: 2026-06-08T06:14:39.123Z
 # Size: 4491
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -2934,7 +2934,7 @@ img.xhacgn.com
 img.xbooru.com
 website-prod.cache.wpscdn.com
 frontend-apps.workos.com
-cdn.workos.com
+.cdn.workos.com
 .wklcdn.com
 embed-cloudfront.wistia.com
 embed-ssl.wistia.com
