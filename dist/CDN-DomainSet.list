@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-09 04:38:25 UTC
+# Updated at: 2026-06-09 10:04:48 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-08T06:14:39.123Z
-# Size: 4491
+# Last Updated: 2026-06-09T08:42:19.236Z
+# Size: 4495
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -401,6 +401,7 @@ cdn.mathjax.org
 pcz.javidol.org
 .haproxy.org
 .graphql.org
+imgproxy.flathub.org
 web-static.archive.org
 image.ap-mail.org
 .99avcdn.org
@@ -626,6 +627,7 @@ static.whatsapp.net
 cdn.viafoura.net
 .turboimg.net
 .tildacdn.net
+.t-assets.net
 cdn.pi.spectrum.net
 .smassets.net
 .sitescdn.net
@@ -1540,6 +1542,7 @@ img.fortawesome.com
 cdn.fluidplayer.com
 .firebaseapp.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
+mozilla-ohttp.fastly-edge.com
 ohttp-relay1.fastly-edge.com
 live.fanmingming.com
 assets.embeddables.com
@@ -2436,6 +2439,7 @@ cdn.dnsimple.com
 cdn-node.diskpart.com
 cacerts.digicert.com
 ocsp.digicert.com
+crl3.digicert.com
 avatars.dicebear.com
 api.dicebear.com
 .dditscdn.com
