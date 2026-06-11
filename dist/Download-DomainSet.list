@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-10 20:47:03 UTC
+# Updated at: 2026-06-11 05:00:57 UTC
 # Source file: Download-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-06-09T08:42:19.239Z
-# Size: 1947
+# Last Updated: 2026-06-11T00:09:22.168Z
+# Size: 1948
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1250,6 +1250,7 @@ cdn.organicmaps.app
 updates.vibeisland.app
 dl.vibeisland.app
 updates.istatmenus.app
+assets.dataflare.app
 dl.vanadium.app
 releases.landrop.app
 builds.parsec.app
