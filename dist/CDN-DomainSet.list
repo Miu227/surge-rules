@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-14 20:00:06 UTC
+# Updated at: 2026-06-15 05:30:08 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-09T15:16:08.294Z
-# Size: 4498
+# Last Updated: 2026-06-15T02:41:55.598Z
+# Size: 4501
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3189,6 +3189,7 @@ s3.go2778.com
 static.gmgard.com
 .glbimg.com
 tuf-repo.github.com
+cafe.github.com
 raw.github.com
 .pkg.github.com
 assets.genius.com
@@ -3244,6 +3245,7 @@ img.bttimg.com
 static.beebom.com
 www.bbthat.com
 .bblcdn.com
+static.captcha.awswaf.com
 .avximg.com
 tiledbasemaps.arcgis.com
 tiles.arcgis.com
@@ -4028,6 +4030,7 @@ resource.video.nimg.jp
 .cdn.nimg.jp
 i.gzn.jp
 tiles.gsj.jp
+.img.gmo.jp
 nav.yumenosora.co.jp
 web-assets.zendesk.co.jp
 cdn.rex.contents.rakuten.co.jp
