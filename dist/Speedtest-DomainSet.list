@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-17 16:07:12 UTC
+# Updated at: 2026-06-17 20:31:34 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-06-17T04:04:18.473Z
-# Size: 3240
+# Last Updated: 2026-06-17T19:29:50.983Z
+# Size: 3242
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -168,6 +168,7 @@ bsnlooklachd.mywire.org
 speedtest.eidnet.org
 ookla.esu10.org
 speedtest.advps.org
+speedtests.ord.your.org
 akrd-speedtest.loni.org
 speedtest.esu5.org
 fla.brisanet.eu.org
@@ -1066,6 +1067,7 @@ speedtest.global-layer.com
 speedtest.gilarivertel.com
 speedtest2.flowtrinidad.com
 speedtest.empireaccess.com
+netspeed.empireaccess.com
 speedtest.dsgroupmedia.com
 speedtestbltnfl.consolidated.com
 speedtest.cns-internet.com
