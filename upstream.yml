@@ -217,5 +217,8 @@ resources:
 
   DNS_lan_hotspot_captive_portal:
       source: https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/hotspot_captive_portal.conf
+
+  Instagram:
+      source: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list
       
 
