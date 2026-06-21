@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-21 14:34:35 UTC
+# Updated at: 2026-06-21 20:06:01 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-06-20T18:44:48.573Z
-# Size: 3257
+# Last Updated: 2026-06-21T18:48:38.890Z
+# Size: 3258
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2283,6 +2283,7 @@ speedtest.cpn.it
 librespeed-rs.ir
 speedme.ir
 fastme.ir
+sg1-sg.lg.skylineconnect.io
 mke.hostingsupport.io
 sig-speedtest.moratelindo.io
 speed.de-west-02.wiit-cloud.io
