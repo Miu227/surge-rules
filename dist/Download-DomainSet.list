@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-25 09:45:56 UTC
+# Updated at: 2026-06-25 15:18:25 UTC
 # Source file: Download-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-06-24T05:48:35.636Z
-# Size: 1954
+# Last Updated: 2026-06-25T13:01:22.045Z
+# Size: 1956
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -15,6 +15,7 @@
 7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
 .fnbuilds.services
 ossmirror.mycloud.services
+dl.orangefox.download
 .nitro.download
 .kali.download
 mirror.kumi.systems
@@ -1497,6 +1498,7 @@ mirror.a1.mk
 ubuntu.dts.mg
 mirror.klaus-uwe.me
 .mirrors.cicku.me
+.dl.twrp.me
 releases.obsidian.md
 mirror.ihost.md
 mirror.marwan.ma
