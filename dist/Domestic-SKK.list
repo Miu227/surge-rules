@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-29 05:01:42 UTC
+# Updated at: 2026-06-29 11:25:00 UTC
 # Source file: Domestic-SKK.list
 
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2026-06-22T09:36:20.859Z
-# Size: 866
+# Last Updated: 2026-06-29T11:00:23.517Z
+# Size: 868
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -487,6 +487,7 @@ DOMAIN-SUFFIX,mi-fds.com
 DOMAIN-SUFFIX,meipai.com
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,lofter.com
+DOMAIN-SUFFIX,lltskb.com
 DOMAIN-SUFFIX,lancdn.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,koubei.com
@@ -870,6 +871,7 @@ DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,i4.cn
+DOMAIN-SUFFIX,ac.cn
 DOMAIN-SUFFIX,22.cn
 DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,6.cn
