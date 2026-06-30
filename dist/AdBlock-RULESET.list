@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-30 04:36:00 UTC
+# Updated at: 2026-06-30 10:02:47 UTC
 # Source file: AdBlock-RULESET.list
 
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2026-06-05T14:37:37.460Z
-# Size: 369
+# Last Updated: 2026-06-30T09:28:39.177Z
+# Size: 370
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -308,6 +308,7 @@ DOMAIN-KEYWORD,adobeanalytics.
 DOMAIN-KEYWORD,adobemarketing.
 DOMAIN-KEYWORD,adtarget.
 DOMAIN-KEYWORD,iqmetrics.
+DOMAIN-KEYWORD,ebis-tracking.
 DOMAIN-KEYWORD,load.tracking.
 DOMAIN-KEYWORD,-mktg.vodafone.com
 DOMAIN-KEYWORD,-business.vodafone.com
