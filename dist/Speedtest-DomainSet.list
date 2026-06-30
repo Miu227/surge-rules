@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-06-30 14:44:57 UTC
+# Updated at: 2026-06-30 20:21:21 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-06-29T19:15:19.452Z
-# Size: 3257
+# Last Updated: 2026-06-30T19:05:39.040Z
+# Size: 3258
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1266,6 +1266,7 @@ speedtest-florida.hyperfiber.com
 speedtest.hizhosting.com
 sp1.hcetelecom.com
 speedtest.hanhosting.com
+albynynp-ookla01.gonetspeed.com
 speed12.gonetspeed.com
 speed11.gonetspeed.com
 speed10.gonetspeed.com
