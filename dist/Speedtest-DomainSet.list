@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-06 15:55:39 UTC
+# Updated at: 2026-07-06 20:15:57 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-07-02T18:47:16.811Z
-# Size: 3261
+# Last Updated: 2026-07-06T17:20:53.438Z
+# Size: 3266
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -557,6 +557,7 @@ stmilton.rogers.com
 stoshawa.rogers.com
 stottawa.rogers.com
 test.accesso.net.br
+test.mycloudvps.net
 test.rnfibra.com.br
 test1.velocable.com
 testdebit.sitevo.fr
@@ -686,6 +687,7 @@ speedtest.infraly.co
 speedtest.ipcore.com
 .speedtest.jsinfo.net
 speedtest.kapper.net
+speedtest.kyouma.net
 .speedtest.labixe.net
 .speedtest.linode.com
 speedtest.lla-cr.com
@@ -1476,6 +1478,7 @@ speedtest.wilnet.com.br
 speedtest.worldphone.in
 speedtest.zenex5ive.com
 speedtest01.wowrack.com
+speedtest02.cochise.net
 speedtest03.timewarp.at
 speedtest1.digimobil.es
 speedtest1.powertel.org
@@ -2711,6 +2714,7 @@ spdtestkpr.myinternet.services
 speed.de-west-02.wiit-cloud.io
 speedtest-1.apvinvestimenti.it
 speedtest-altavilla.wifiweb.it
+speedtest-huachuca.cochise.net
 speedtest-lax.advinservers.com
 speedtest-ldn.voxtelecom.co.za
 speedtest-lil.one-elephant.org
@@ -2739,6 +2743,7 @@ speedtest.giganetbroadband.net
 speedtest.gruponetfibra.com.br
 speedtest.har.vodafoneidea.com
 speedtest.infocotelecom.com.br
+speedtest.instantsupport.co.in
 speedtest.kamilszczepanski.com
 speedtest.knettelecomce.com.br
 speedtest.kosciuskoconnect.com
