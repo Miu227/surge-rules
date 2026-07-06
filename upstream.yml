@@ -50,8 +50,8 @@ resources:
 
   # Apple 国内 CDN：Sukka
   Apple-CDN.list:
-    source: https://ruleset.skk.moe/List/non_ip/apple_cdn.conf
-
+    source: https://ruleset.skk.moe/List/domainset/apple_cdn.conf
+    
   # Apple 中国区服务：Sukka
   Apple-CN.list:
     source: https://ruleset.skk.moe/List/non_ip/apple_cn.conf
