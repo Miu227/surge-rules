@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-09 15:36:35 UTC
+# Updated at: 2026-07-09 20:07:09 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-07-08T18:42:59.188Z
-# Size: 3273
+# Last Updated: 2026-07-09T15:55:44.685Z
+# Size: 3274
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -283,6 +283,7 @@ www.librespeed.fi
 ch1.chtm.hinet.net
 ds19.vipconnect.mx
 eregli.flix.net.tr
+fetkt1.seed.net.tw
 fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
