@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-10 09:54:25 UTC
+# Updated at: 2026-07-10 15:04:24 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-07-09T15:55:46.070Z
-# Size: 4543
+# Last Updated: 2026-07-10T13:25:49.221Z
+# Size: 4548
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1022,6 +1022,7 @@ r2.dejavu.moe
 r2cdn.c7d.dev
 .randomuser.me
 .rawgithub.com
+rdr.windy.com
 .runkitcdn.com
 .s-nbcnews.com
 s.abcnews.com
@@ -1151,6 +1152,7 @@ cdn.pagefly.io
 cdn.redhat.com
 cdn.redwap.xyz
 .cdn.replit.com
+cdn.scalar.com
 cdn.seondf.com
 cdn.setapp.com
 cdn.sketch.com
@@ -1937,6 +1939,7 @@ jssdk.opin.media
 .larksuitepkg.com
 launcher.spot.im
 lm.visualon.info
+magic.scalar.com
 .mangadex.network
 maps.gstatic.com
 maps.wplace.live
@@ -3780,6 +3783,7 @@ ca2.onlyhentaistuff.com
 .cas-bridge.xethub.hf.co
 cdn-app.pathfactory.com
 cdn-assets.circleci.com
+cdn-assets.hinative.com
 cdn-eu.dynamicyield.com
 cdn-images-1.medium.com
 cdn-static-1.medium.com
@@ -3992,6 +3996,7 @@ media.nbcconnecticut.com
 media.telanganatoday.com
 melonbooks.akamaized.net
 micro.rubiconproject.com
+pha-prx.ops.cloud.nx.app
 photos5.appleinsider.com
 platforms.makemytrip.com
 prod-images.rippling.com
