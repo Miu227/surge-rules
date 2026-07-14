@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-14 14:16:02 UTC
+# Updated at: 2026-07-14 19:45:42 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-07-11T15:28:17.371Z
-# Size: 3275
+# Last Updated: 2026-07-14T18:16:05.202Z
+# Size: 3276
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1874,6 +1874,7 @@ speedtest.pentanet.com.au
 speedtest.pimcommcorp.com
 speedtest.plasmanodes.com
 speedtest.powernet.com.ru
+speedtest.rajeshcable.com
 speedtest.rtm.t-mobile.nl
 speedtest.samparkinfo.com
 speedtest.sinetonline.net
