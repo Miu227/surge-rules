@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-15 14:13:11 UTC
+# Updated at: 2026-07-15 19:38:12 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-07-13T06:30:02.736Z
-# Size: 4552
+# Last Updated: 2026-07-15T18:01:25.090Z
+# Size: 4557
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1327,6 +1327,9 @@ regmedia.co.uk
 res.abc.net.au
 res.garmin.com
 rt.rtoaster.jp
+rt1.maphub.net
+rt2.maphub.net
+rt3.maphub.net
 s.midishow.net
 s1.divhunt.com
 s3.2233778.xyz
@@ -2375,6 +2378,7 @@ static.gmgard.com
 static.guim.co.uk
 static.hotjar.com
 static.linear.app
+static.maphub.net
 .static.mega.co.nz
 static.meiguo.com
 static.missav.com
@@ -3729,6 +3733,7 @@ thumbor.4gamers.com.tw
 .tile.thunderforest.com
 tile2.opencyclemap.org
 tiles.arcticconnect.ca
+.tiles.openstreetmap.us
 .tiles.virtualearth.net
 tileserver.memomaps.de
 tn.tubepornclassic.com
