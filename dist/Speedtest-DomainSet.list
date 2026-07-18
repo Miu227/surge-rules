@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-18 13:52:28 UTC
+# Updated at: 2026-07-18 19:34:36 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-07-16T17:03:50.525Z
-# Size: 3282
+# Last Updated: 2026-07-18T18:06:13.418Z
+# Size: 3283
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2651,6 +2651,7 @@ speedtest020.telecomitalia.it
 speedtest021.telecomitalia.it
 speedtest1.atlantisnet.com.tr
 speedtest1.indosatooredoo.com
+speedtest1.lax1-us.gozfly.net
 speedtest1.sc.chinamobile.com
 speedtest2.comvergence.com.au
 speedtestacibadem.netspeed.tr
