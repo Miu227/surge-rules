@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-27 15:16:54 UTC
+# Updated at: 2026-07-27 19:57:52 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-07-25T18:05:55.172Z
-# Size: 3296
+# Last Updated: 2026-07-27T18:45:19.940Z
+# Size: 3297
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -436,6 +436,7 @@ ookla01.citynet.net
 ooklaserver.aryk.fr
 ooklaspeed.ttron.eu
 purtel39.purtel.com
+purtel70.purtel.com
 sg.st.spacecore.pro
 sp.merkurnet.com.tr
 sp01.rbfibra.net.br
