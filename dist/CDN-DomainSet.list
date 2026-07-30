@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-07-30 09:05:30 UTC
+# Updated at: 2026-07-30 14:35:13 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-07-29T02:59:05.810Z
-# Size: 4563
+# Last Updated: 2026-07-30T11:18:56.412Z
+# Size: 4564
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4457,6 +4457,7 @@ cdn-widgetsrepository.yotpo.com
 cdn.playersupport.riotgames.com
 cdn.techcommunity.microsoft.com
 .clientmetrics-pa.googleapis.com
+community-cdn.openstreetmap.org
 external-content.duckduckgo.com
 files.mastodon.ktachibana.party
 hhhhhhome86227170.wordpress.com
