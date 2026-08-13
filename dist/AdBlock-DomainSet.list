@@ -1,11 +1,11 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-08-13 13:51:00 UTC
+# Updated at: 2026-08-13 19:28:07 UTC
 # Source file: AdBlock-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-08-13T13:38:54.062Z
-# Size: 115280
+# Last Updated: 2026-08-13T18:05:33.855Z
+# Size: 115339
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,7 +22,7 @@
 #   - https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt
 #   - https://ublockorigin.pages.dev/filters/unbreak.min.txt
 #
-# $content-hash-v1$:6mr_wE-wXWWr6OyUXaGt05GpLaDstgUq2_GZdNfvrM0$
+# $content-hash-v1$:LaUJuVSQNK1kDhzRNeKJGF7h7Risn_XOkvRcV0r_1JQ$
 #########################################
 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 .data
@@ -2397,6 +2397,7 @@ dp3.qq.com
 .dsmgww.com
 .dsmhru.com
 .dsmmzo.com
+.dsmwju.com
 .dsmxnw.com
 .dsmzof.com
 .dsnbwt.com
@@ -5987,6 +5988,7 @@ vi.l.qq.com
 .wpsxwkz.com
 .wtg-ads.com
 .wuyjtew.icu
+.wvuiaqx.com
 .wvvw.rfi.fr
 .wwpon365.ru
 .wxfdmri.xyz
@@ -7124,6 +7126,7 @@ dsp-x.jd.com
 .efvrgb12.com
 .eghaailr.com
 .ehbm7vph.xyz
+.eimbrxlb.com
 .einphaer.com
 .ekamsply.com
 .elaydark.com
@@ -7846,6 +7849,7 @@ img-x.jd.com
 .mediative.ca
 .meer.thbx.nl
 .mefo1.zdf.de
+.megapred.com
 .meijxqop.com
 .mellodur.net
 .meltmilk.com
@@ -11229,6 +11233,7 @@ e.jparking.cn
 .f5nn75ozf.com
 .f7eiavl95.com
 .f9bnlbgjf.com
+.fa5hnea2f.com
 .fadedsnow.com
 .fagmiethe.com
 .fairygaze.com
@@ -16224,6 +16229,7 @@ avn.innity.com
 .betwinner1.com
 .bf002bbbbb.com
 .bf608c30c9.com
+.bfeoncaflpt.in
 .bfitra1eho.com
 .bfjoyp.plus.nl
 .bfocuqeona.com
@@ -18112,6 +18118,7 @@ jp.as.pptv.com
 .justconfig.com
 .justlagoon.com
 .juu5p55799.com
+.juvqyglaou.com
 .jweqai.amen.fr
 .jwqntfwcet.com
 .jxad.jx163.com
@@ -19426,7 +19433,7 @@ qapm.baidu.com
 .qxn9qlvmca.com
 .qyplvnzcm1.com
 .qypvnb.24mx.it
-qzs.gdtimg.com
+.qzs.gdtimg.com
 .qzycreagtab.in
 .r-log.dable.io
 .r.readyhow.com
@@ -19899,6 +19906,7 @@ rm.sina.com.cn
 .som.abritel.fr
 .som.hotels.com
 .som.philly.com
+.somberunit.pro
 .somni.empr.com
 .somni.huk24.de
 .somni.rkt.zone
@@ -23953,6 +23961,7 @@ goblin.hupu.com
 .gtms.freddy.com
 .gudme.lokai.com
 .guessdetail.com
+.gufarewake.qpon
 .guhasisals.qpon
 .guvrijamwmuz.in
 .guzsc.luhxe.com
@@ -23960,6 +23969,7 @@ goblin.hupu.com
 .gvlme.emango.si
 .gw.eesti.org.au
 .gw.tushyraw.com
+.gwaevffiiyj.com
 .gwm.admc-me.com
 .gwt.mudrydom.sk
 .gybyxsy1588.com
@@ -24234,6 +24244,7 @@ iflow.uczzd.net
 .itstuffnews.com
 .ivmwbl.hear.com
 .ivnwotcbdvh.com
+.iwabnicajsm.com
 .izzyaa.week9.kr
 .j1.piaobing.com
 .jabobdfufaqt.in
@@ -25359,6 +25370,7 @@ pfp.sina.com.cn
 .ping.dozuki.com
 ping.ifixit.com
 .pingtcss.qq.com
+.pipaenglue.cyou
 .piper.amocrm.ru
 .piquantpigs.com
 .pisgahserve.com
@@ -26877,6 +26889,7 @@ store.iqiyi.com
 .switchadhub.com
 .swm.nozemoil.nl
 .swoobmoczogq.in
+.swpbbbqkemn.com
 .symposium44.com
 .sync.opendsp.ru
 .sync.rambler.ru
@@ -28151,6 +28164,7 @@ yuedu.iqiyi.com
 .aainfo.anz.co.nz
 .aamt.nbcnews.com
 .ab.fanatical.com
+.abasedmeeds.cyou
 .abc.citygame.com
 .abc.kavanous.com
 .abc.unifitsa.com
@@ -30783,6 +30797,7 @@ inst.360safe.com
 .joyfulharbor.com
 .joyfullybarn.com
 .joyous-north.pro
+.jppfhdtxzazf.com
 .jqzmji.nnn.ed.jp
 .jrfjcn.mebeli.bg
 .js.duotegame.com
@@ -33771,6 +33786,7 @@ stats.ext.v35.us
 .stingerfound.com
 .stliom.vidaxl.cz
 .stm.carbrain.com
+.stoastenore.qpon
 .stonierteddy.com
 .stonkstouts.qpon
 .stoopsellers.com
@@ -34038,6 +34054,7 @@ sv.map.baidu.com
 .tatu.miabeli.com
 .tatu.udeb.org.br
 .tavernelans.qpon
+.tawtieratos.shop
 .taxissunroom.com
 .tc2.hometogo.net
 .tcbtus.opodo.com
@@ -34676,6 +34693,7 @@ user.ground.news
 .vmxdevkztzkm.com
 .vnwhzk.togas.com
 .vocabulary83.com
+.volumesystem.com
 .volutehewgag.cfd
 .vpydjogaytpg.xyz
 .vpyiov.fbs.co.th
@@ -34694,6 +34712,7 @@ vs.biz.weibo.com
 .wa.love2play.com
 .waegstalled.shop
 .waffingwoak.qpon
+.wafflemakers.net
 .wairsresold.cyou
 .wakermaugis.cyou
 .wallabyhusky.com
@@ -35272,6 +35291,7 @@ afdconf.baidu.com
 .afp.chinanews.com
 .aft.freshtival.nl
 .afterdownload.com
+.agacesstripes.com
 .againandagain.biz
 .agamagcargoan.com
 .agcmtb.nameit.com
@@ -39168,6 +39188,7 @@ news.qhstatic.com
 .oca.microsoft.com
 .ocean.gigatron.rs
 .ocfgz.ta3swim.com
+.ocheryfoozle.shop
 .ocimumnittier.cfd
 .ociqz.aroma360.de
 .octopuscosecs.com
@@ -39575,6 +39596,7 @@ ppvabs.pplive.com
 .ptinusmufasal.com
 .ptphd.terijon.com
 .pub.neartonet.com
+.pubfuture-ssp.com
 .pubimageboard.com
 public.gdtimg.com
 .pubtagmanager.com
@@ -45277,6 +45299,7 @@ gpm.samsungqbe.com
 .grookilteepsou.net
 .groovyornament.com
 .grotzenzelotic.com
+.grouchgraupel.shop
 .grow.powerstep.com
 .growth-channel.net
 .growth.wildfork.mx
@@ -50601,6 +50624,7 @@ ulogjs.gifshow.com
 .unfrillotters.shop
 .unfrizzpacinko.com
 .ungatedthecoid.cfd
+.ungirdplumply.qpon
 .unhoodsgamine.cyou
 .unhoodsgluily.cyou
 .uni7.uniplaces.com
@@ -50668,6 +50692,7 @@ ulogjs.gifshow.com
 .uwcbytsvmaojez.com
 .uwwubdtdkvmhk.site
 .uyhxjy.jdsports.se
+.uzaronamazing.qpon
 .uzhpky.j-lounge.jp
 .uzhrup.decoweb.com
 .uzipbs.weltbild.ch
@@ -50899,6 +50924,7 @@ vv84.bj.bcebos.com
 .whatdidheseehe.com
 .whatisaweekend.com
 .whickerkarates.com
+.whilendcataria.com
 .whimsicalgrove.com
 .whiprayoutkill.com
 .whirkenlinums.cyou
@@ -51433,7 +51459,7 @@ ad.mobile.youku.com
 .ad.track.66mobi.com
 ad.zuimeitianqi.com
 .adaptunemployed.com
-adashx.m.taobao.com
+.adashx.m.taobao.com
 adashx.ut.youku.com
 .adat.biharinaplo.ro
 .adat.hirdessemeg.hu
@@ -52796,6 +52822,7 @@ delivery-pc.wasu.cn
 .design.nanawall.com
 .destinesourock.qpon
 .detectdiscovery.com
+.detectssyzygia.shop
 .detnmz.cuteness.com
 .dev.brouillon.store
 .dev.runtimeflow.net
@@ -53228,6 +53255,7 @@ durdcn.doglobal.net
 .fbyewwljwllgu.space
 .fcapi.toplyshop.com
 .fcjmpgwlxrzdv.space
+.fclbiubcoldcy.space
 .fcmatch.youtube.com
 .fdbfqpbjhmidw.space
 .featuregangster.com
@@ -53465,6 +53493,7 @@ gecko-lq.snssdk.com
 .gfdru.diarrablu.com
 .gfeede.theminda.com
 .gfgywe.abril.com.br
+.gfkffnyncyicj.space
 .gfv4.destinia.co.za
 .gfvlq.liquid-iv.com
 .gg1.mengchongzu.com
@@ -53917,6 +53946,7 @@ grs.dbankcloud.asia
 .highrevenuegate.com
 .higorstp.4d-pay.com
 .hijxfm.gaspedaal.nl
+.hillierbandala.qpon
 .hipaa.wellsense.org
 .hipkqt.contorion.de
 .hit.salesfire.co.uk
@@ -54963,6 +54993,7 @@ log.byteoversea.com
 .luhingamulches.qpon
 .luiz.lgaadvs.com.br
 .lunchereosinic.shop
+.lunulesgnashed.qpon
 .luopf.squatwolf.com
 .luteciaporkpen.qpon
 .luuib.sillysanta.se
@@ -55469,6 +55500,7 @@ mobilelog.kugou.com
 .mp5.multi-prets.com
 .mpgldibmqlhwg.space
 .mphbrwveomwtj.space
+.mpmnc6v4be4u5b.rest
 .mppxlwkdzfunt.space
 .mprkxf.teebooks.com
 .mps.magia-perfum.pl
@@ -55745,11 +55777,13 @@ numbers.mailbox.org
 .omtrns.sstats.q8.dk
 .on24-webinars.co.uk
 .oncahh.boxlunch.com
+.oncosisbedelve.qpon
 .one-new-message.com
 .one.ap288-stp.click
 .one.ledmegastore.be
 .one.ledmegastore.nl
 .one.net.jumia.co.ke
+.onegitearguses.cyou
 .ongreed.ongreed.com
 .onlineshop.ricoh.ch
 .onlineshop.ricoh.de
@@ -56044,6 +56078,7 @@ plt.data.pplive.com
 .polhvf.bootbarn.com
 .politicalporter.com
 .poller.net.jumia.cm
+.pompomspottled.shop
 .pondfulsisting.qpon
 .pool.supportxmr.com
 .pop.lovingsiren.com
@@ -58290,6 +58325,7 @@ t.email1.samsung.ca
 .tenmfemqmyltwwq.com
 .tensomeeuploid.shop
 .terpineforpass.cyou
+.terriergarnice.shop
 .test-ad.lucia-c.com
 .test-b.todaytix.com
 .test-link.tradle.io
@@ -60947,6 +60983,7 @@ dynamicad.kfc.com.cn
 .ehlfs.fullbeauty.com
 .eifeou.pandahall.com
 .eiteribesshaints.com
+.ejpeyuforzksu.online
 .ejroldixhjqnu.online
 .ek8.voyage-prive.com
 .eknrintckqimu.online
@@ -63581,6 +63618,7 @@ optimus-ads.amap.com
 .orientedargument.com
 .orlmarketing.nfp.com
 .orlqtz.lampenwelt.ch
+.orngxabtxwake.online
 .orurf.nuudcare.co.uk
 .os.efaxcorporate.com
 .osezny.intheswim.com
@@ -63719,6 +63757,7 @@ optimus-ads.amap.com
 .physical-meaning.com
 .piero.pieroandco.com
 .pilulagabitaroc.cyou
+.pilummearnesu.online
 .pimpoint.inriver.com
 .ping.resoluteoil.com
 .pipedream.wistia.com
@@ -64579,6 +64618,7 @@ sdkapp.uve.weibo.com
 .skbx.dreamisfree.com
 .skbx.peterpauper.com
 .skdbg.hurraheroes.es
+.skfteochnscwc.online
 .skillfullyfrugal.com
 .slike.indiatimes.com
 .slytics.vitacost.com
@@ -68243,9 +68283,11 @@ edgecast-vod.yimg.com
 .egmoytcwvwfnc.website
 .ehdkzm.ottoversand.at
 .ehedwd.sikayetvar.com
+.ehesldqwosfjv.website
 .ehwknx.smile-nurse.jp
 .eiftfa.fashionette.de
 .eipqr.rythmhealth.com
+.eizkswbhhnlsw.website
 .ejbbcf.finishline.com
 .ejcnszxrmlzmk.website
 .ejhmjusxrtrri.website
@@ -68503,6 +68545,7 @@ feedbackws.icloud.com
 .frfkzxnooufpx.website
 .frilly-preference.pro
 .frjcpgxnfpmrg.website
+.frlybrblnhapd.website
 .frookshop-winsive.com
 .frozenbiopsyskate.com
 .fsqwdj.live-tennis.eu
@@ -68623,6 +68666,7 @@ feedbackws.icloud.com
 .goatcounter.blu3id.uk
 .goatstats.fiesta.plus
 .gobacktothefuture.biz
+.gobasbmqbraud.website
 .googleoptimize-cn.com
 .googlesyndication.com
 .goose.markerchase.com
@@ -68948,6 +68992,7 @@ h-adashx.ut.youku.com
 .h031.familydollar.com
 .h353.ncadvertiser.com
 .h5w32.hyvinvoinnin.fi
+.h6671vcw5g2wtjhqp.cfd
 .hacefoldjcteb.website
 .haekoykqucult.website
 .hailofficemeasure.com
@@ -69014,6 +69059,7 @@ h-adashx.ut.youku.com
 .hjaorx.ginatricot.com
 .hjcderqhucanv.website
 .hjfes.surfsynergy.com
+.hjkrkmniwocfl.website
 .hkhfm.rafflehouse.com
 .hko7xcemkfzl4uwo.rest
 .hkqlh.tailgatefix.com
@@ -69043,6 +69089,7 @@ h-adashx.ut.youku.com
 .hpbrqr.daihatsu.co.jp
 .hpctulxduridd.website
 .hpslbgjvyrtrm.website
+.hqhzkaewwexrp.website
 .hrclrqxx.trehouse.com
 .hrdrn.sunnywithin.com
 .hsljw.hellobubble.com
@@ -69338,6 +69385,7 @@ impservice.youdao.com
 .jmcnwr.bricoprive.com
 .jmqp39xnr7r34phoi.cfd
 .jmtrl.coachoutlet.com
+.jmuukiiblkemd.website
 .jmwjaxgojbymt.website
 .jnkfkqqqpqsbr.website
 .jnmdsgks.nordicoil.fr
@@ -69407,6 +69455,7 @@ impservice.youdao.com
 .kgqzgj.rougegorge.com
 .khcdhu.saraschool.net
 .khfiwx.sephora.com.br
+.khj5jmkrpzgptzi9n.cfd
 .khmdqolkcxcha.website
 .khmqf.trapkaraoke.com
 .khvdma.clarins.com.tw
@@ -69462,6 +69511,7 @@ impservice.youdao.com
 .kqdqrj.traktorpool.de
 .krcurxzl.soundboks.de
 .krcurxzl.soundboks.eu
+.kruujzqylnfpi.website
 .krvcn.caesarsupps.com
 .kryyqduvqqdnm.website
 .kshqjzgysdqyz.website
@@ -70156,6 +70206,7 @@ log-dmp.suishenyun.cn
 .mbox4.offermatica.com
 .mbox5.offermatica.com
 .mbox9.offermatica.com
+.mbzpulstssjhc.website
 .mcad.mods-clinic.info
 .mchzknxaekqpc.website
 .mcnuzaallztck.website
@@ -70576,6 +70627,7 @@ mobads-logs.baidu.com
 .ntmzw.boudoirnoir.com
 .ntopcd.underarmour.nl
 .nussar.tuttocialde.it
+.nustkkglmmweg.website
 .nuusqu.kpm-berlin.com
 .nvrmd.novaramedia.com
 .nwcqt.bellabubear.com
@@ -71723,6 +71775,7 @@ smart-789.kakamobi.cn
 .snakergolfedbravi.cfd
 .sniga.segomotools.com
 .snippet.affilimate.io
+.snzqnsaioztwg.website
 .socket.streamable.com
 .sokjes.herensokken.nl
 .solandsnatchshake.cfd
@@ -71768,6 +71821,7 @@ smart-789.kakamobi.cn
 .sp.thetimesherald.com
 .spa.castelinhospa.com
 .spanids.thesaurus.com
+.spawnbowleskakar.cyou
 .special-offers.online
 .specific-property.pro
 .specificallycries.com
@@ -74276,6 +74330,7 @@ api.waptest.taobao.com
 .araguaina.ondec.com.br
 .archive.double-kick.co
 .arif.arianperfumes.com
+.arkoseriotisemicra.cfd
 .armadillo.superpeak.dk
 .artificialboughtme.com
 .asbhv.invictastores.eu
@@ -83293,6 +83348,7 @@ p2pupdate.gamedl.qq.com
 .prodigiouseducation.com
 .productivity-s.yale.com
 .profiling.outokumpu.com
+.profitable-purchase.pro
 .promociones.christus.mx
 .promos.sanmarcanada.com
 .promos.trustedtours.com
@@ -92763,6 +92819,7 @@ monitor-stsdk.vivo.com.cn
 .mtrcs.unitedpenshop.co.uk
 .mtuqnl.roomys-webstore.jp
 .mucosaedonatesinhelde.cfd
+.muettecashersgruntle.cyou
 .muzzlesdynastmidmain.qpon
 .mvect.rodent-repeller.com
 .my.haircarewithsahara.com
@@ -94504,6 +94561,7 @@ wapwbclick.mobile.sina.cn
 .wheelchairfactorygoal.com
 .wheels.fietseninspanje.nl
 .wishingbindingemoter.qpon
+.witsafenuddleunbaked.qpon
 .wjzvkmmu.anhaengershop.de
 .wlj9jryu58q26b1p91z7.rest
 .woodinespuddedupbeat.qpon
@@ -113280,6 +113338,7 @@ eaus2watcab02.blob.core.windows.net
 .nettokom-lp.information.nettokom.de
 .noticefile.samsungcloudsolution.com
 .nqzgyb.observatoiredelafranchise.fr
+.o5twro8n9w9opr7iwly7ezbmu6lihx.rest
 .oj2q8.montecarlosbm.book-secure.com
 .oliveiralima.anunciojuridico.com.br
 .osimg.universalorlandovacations.com
