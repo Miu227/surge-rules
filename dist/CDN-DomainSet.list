@@ -1,18 +1,18 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-09-02 04:41:45 UTC
+# Updated at: 2026-09-02 11:25:03 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-31T12:15:29.942Z
-# Size: 4647
+# Last Updated: 2026-09-02T08:32:50.993Z
+# Size: 4651
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:xqIi9BQ0EoxuxMor9j5D2IKaITmsFinX8DmLFWB1fWw$
+# $content-hash-v1$:mSX06OhWUQcAXJZclvk6EbJdvaooc7eY9P7ZGzin4zY$
 #########################################
 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 0x0.st
@@ -169,6 +169,7 @@ jotai.org
 m.wsj.net
 .missuo.ru
 .mlcdn.com
+.mqcdn.com
 .nest.land
 .npmfs.com
 .nsimg.net
@@ -1020,6 +1021,7 @@ media.orz.uno
 media2.dev.to
 .myvideos.info
 .nhentaimg.com
+.nodeimage.com
 npm.antfu.dev
 .oaistatic.com
 .oculuscdn.com
@@ -1299,6 +1301,7 @@ js.jotform.com
 js.pngtree.com
 js.recurly.com
 js.rtoaster.jp
+layers.mapq.st
 lc.nssurge.com
 .liangzipic.com
 .live-video.net
@@ -1511,6 +1514,7 @@ cdn.sphlabs.com
 cdn.st-note.com
 cdn.svgator.com
 cdn.svgporn.com
+cdn.system1.com
 cdn.termius.com
 cdn.uptimia.com
 cdn.userway.org
@@ -2198,7 +2202,6 @@ cdn.joypixels.com
 cdn.lgrckt-in.com
 cdn.lineicons.com
 cdn.miohentai.com
-cdn.nodeimage.com
 cdn.onesignal.com
 cdn.pagerduty.com
 cdn.permutive.com
@@ -2765,6 +2768,7 @@ upload.teftera.com
 uploads.guim.co.uk
 uploads.linear.app
 v2uploads.zopim.io
+vector.hereapi.com
 video3.mingpao.com
 videos.elephas.app
 videos.ohentai.org
