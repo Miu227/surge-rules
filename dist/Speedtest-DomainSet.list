@@ -1,18 +1,18 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-09-07 12:42:00 UTC
+# Updated at: 2026-09-07 21:34:02 UTC
 # Source file: Speedtest-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-09-06T19:09:11.025Z
-# Size: 3372
+# Last Updated: 2026-09-07T20:33:33.639Z
+# Size: 3374
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:NEl5XQI95Lj0hTcEv2Qtu1fcc65gblh3qCpHnY2Ax2Y$
+# $content-hash-v1$:U4dDE85gXh1gvR9v9v_QR5uja6QNfu1VFNJBmd_hjd0$
 #########################################
 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 .fast.com
@@ -1889,6 +1889,7 @@ speedtest.fibranex.com.br
 speedtest.getwireless.net
 speedtest.grupoip2.com.br
 .speedtest.gslnetworks.com
+speedtest.hk.aixxycode.id
 speedtest.homecomminc.com
 speedtest.i3broadband.com
 speedtest.igennetworks.in
@@ -1925,6 +1926,7 @@ speedtest.rajeshcable.com
 speedtest.rtm.t-mobile.nl
 speedtest.samparkinfo.com
 speedtest.sesfiber.com.br
+speedtest.sg.aixxycode.id
 speedtest.sinetonline.net
 speedtest.softether.co.jp
 speedtest.softwareeni.com
