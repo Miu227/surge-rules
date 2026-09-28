@@ -1,9 +1,8 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-09-27 21:24:33 UTC
+# Updated at: 2026-09-28 05:31:06 UTC
 # Source file: PayPal.list
 
 # > PayPal
-USER-AGENT,PayPal*
-DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
+USER-AGENT,PayPal*
