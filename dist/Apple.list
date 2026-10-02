@@ -1,10 +1,12 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-10-02 12:45:03 UTC
+# Updated at: 2026-10-02 22:18:39 UTC
 # Source file: Apple.list
 
 # > Apple API
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
