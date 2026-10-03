@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-10-03 05:24:14 UTC
+# Updated at: 2026-10-03 11:45:24 UTC
 # Source file: Apple.list
 
 # > Apple API
@@ -32,7 +32,3 @@ IP-CIDR,205.180.175.0/24,no-resolve
 
 # > Apple Maps
 PROCESS-NAME,com.apple.geod
-
-# > Apple News
-DOMAIN-SUFFIX,apple.comscoreresearch.com
-DOMAIN-SUFFIX,apple.news
