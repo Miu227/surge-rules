@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-10-17 04:35:53 UTC
+# Updated at: 2026-10-17 10:51:56 UTC
 # Source file: TikTok.list
 
 # > TikTok
@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
