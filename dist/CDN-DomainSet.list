@@ -1,18 +1,18 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-10-24 11:11:03 UTC
+# Updated at: 2026-10-24 16:01:44 UTC
 # Source file: CDN-DomainSet.list
 
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-10-23T06:28:09.470Z
-# Size: 4706
+# Last Updated: 2026-10-24T15:36:57.910Z
+# Size: 4708
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:2ztnRBSvmcH9SeasY43C-XIPzviIfsRILVDHqGpqe2E$
+# $content-hash-v1$:UQno2Z7OCknYRP_Ca_88VuOQSzM-SCg_SxZEQrLYC6E$
 #########################################
 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 0x0.st
@@ -2323,6 +2323,7 @@ image.ap-mail.org
 image.civitai.com
 image.comicbz.com
 image.freepik.com
+image.gameapps.hk
 image.mgstage.com
 image.prntscr.com
 image.xmanhua.net
@@ -2766,6 +2767,7 @@ static.snaptube.in
 static.srcspot.com
 static.svc.litv.tv
 static.tp-link.com
+static.truemed.com
 static.uptimia.com
 static.workday.com
 static.xgroovy.com
