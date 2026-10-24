@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-10-24 16:01:45 UTC
+# Updated at: 2026-10-24 20:55:36 UTC
 # Source file: Proxy.list
 
 # > Amazon
@@ -19,6 +19,9 @@ IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,54.156.0.0/14,no-resolve
 IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
+
+# > AO3
+DOMAIN-SUFFIX,archiveofourown.org
 
 # > Apple Daily
 DOMAIN-SUFFIX,appledaily.com
@@ -57,6 +60,10 @@ DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxteam.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
+
+# > E-Hentai
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
 
 # > exception
 DOMAIN-SUFFIX,chalungu.cn
@@ -385,6 +392,17 @@ IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.104.128.0/20,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
+
+# > PicACG
+DOMAIN-SUFFIX,bidobido.xyz
+DOMAIN-SUFFIX,bikaios.xyz
+DOMAIN-SUFFIX,bikawebapp.com
+DOMAIN-SUFFIX,diwodiwo.xyz
+DOMAIN-SUFFIX,huakacomic.com
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,pica-id.com
+DOMAIN-SUFFIX,tipatipa.xyz
+DOMAIN-SUFFIX,wikawika.xyz
 
 # > Potato Chat
 IP-CIDR,13.251.24.0/24,no-resolve
