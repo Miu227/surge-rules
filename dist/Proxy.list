@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-11-01 13:37:59 UTC
+# Updated at: 2026-11-01 22:07:38 UTC
 # Source file: Proxy.list
 
 # > Amazon
@@ -908,6 +908,7 @@ DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,trendsmap.com
 DOMAIN-SUFFIX,trulyergonomic.com
 DOMAIN-SUFFIX,trustasiassl.com
