@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-11-02 06:18:43 UTC
+# Updated at: 2026-11-02 21:45:08 UTC
 # Source file: Microsoft-Dler.list
 
 # > Azure
@@ -571,6 +571,7 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,visualstudio.eu
 DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
