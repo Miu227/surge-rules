@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-11-02 21:45:09 UTC
+# Updated at: 2026-11-03 06:55:53 UTC
 # Source file: Proxy.list
 
 # > Amazon
@@ -124,6 +124,7 @@ DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,dartlang.org
@@ -749,6 +750,7 @@ DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,nrk.no
