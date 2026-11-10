@@ -1,5 +1,5 @@
 # Mirrored by GitHub Actions
-# Updated at: 2026-11-10 07:26:31 UTC
+# Updated at: 2026-11-10 19:49:25 UTC
 # Source file: Steam.list
 
 # > Steam
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN,steammobile.akamaized.net
 DOMAIN,steampipe.akamaized.net
+DOMAIN,steamvideo-a.akamaihd.net
 
 # > Steam server IP ranges
 IP-CIDR,45.121.184.0/24,no-resolve
